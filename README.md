@@ -1,2 +1,2 @@
 # ASM_QUICKSORT
-Simple realisation of qsort with MASM
+Simple realisation of qsort using MASM 
